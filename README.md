@@ -1,3 +1,9 @@
+# UFC - CK0235 - Técnicas de Programação
+
+Esta é a páginal oficial da Disciplina de Técnicas de Programação (CK0235) da Universidade Federal do Ceará
+
+....
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/jose-macedo/ufc-ck0235-2020/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
