@@ -4,7 +4,7 @@ Esta é a páginal oficial da Disciplina de Técnicas de Programação (CK0235) 
 
 [Calendário da Disciplina](https://bit.ly/2DczRLM)
 
-[Repositório no GitHub] (https://github.com/jose-macedo/ufc-ck0235-2020)
+[Repositório no GitHub](https://github.com/jose-macedo/ufc-ck0235-2020)
 
 Código da Turma (classroom.google.com): mxxozk2
 
