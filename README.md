@@ -11,6 +11,6 @@ Código da Turma (classroom.google.com): mxxozk2
 Encontros Remotos (todas 3as e 5as no horário da aula)
 [Sala GoogleMeet](https://meet.google.com/lookup/dhdfph2weh)
 
-[WhatsApp](http://bit.ly/2020tecprog)
+Grupo para troca de mensagens [WhatsApp](http://bit.ly/2020tecprog)
 
 
