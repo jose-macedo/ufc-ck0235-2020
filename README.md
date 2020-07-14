@@ -2,7 +2,15 @@
 
 Esta é a páginal oficial da Disciplina de Técnicas de Programação (CK0235) da Universidade Federal do Ceará
 
-...
+[Calendário da Disciplina](https://bit.ly/2DczRLM)
 
-[Calendário](https://docs.google.com/spreadsheets/d/e/2PACX-1vRYR8LImkabPNcXLglmvuZG0zgobX1IFislJflTSV2n0qHfDkJRtX1F0DPD5sotkzRbdg5rmEEObsZc/pubhtml?gid=1830822040&single=true)
+[Repositório no GitHub] (https://github.com/jose-macedo/ufc-ck0235-2020)
+
+Código da Turma (classroom.google.com): mxxozk2
+
+Encontros Remotos (todas 3as e 5as no horário da aula)
+[Sala GoogleMeet](https://meet.google.com/lookup/dhdfph2weh)
+
+[WhatsApp](http://bit.ly/2020tecprog)
+
 
